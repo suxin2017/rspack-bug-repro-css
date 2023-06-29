@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","sources":["./src/style.module.css"],"sourcesContent":[".my-class:global {\r\n  font-size: 100px;\r\n}\r\n\r\n.my-class2:local {\r\n  font-size: 100px;\r\n}\r\n"],"names":[],"mappings":"CAAiB,CAAC;EAChB,SAAS,EAAE,GAAG,EAAE;AAClB,CAAC;CAEgB,CAAC;EAChB,SAAS,EAAE,GAAG,EAAE;AAClB,C"}
